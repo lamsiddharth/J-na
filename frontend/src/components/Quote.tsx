@@ -4,10 +4,10 @@ export const Quote = () => {
         <div className="flex justify-center">
             <div className="max-w-lg">
                 <div className="text-3xl pl-3 font-bold">
-                    "The leg shaking chest thumping ass thickening customer support igot led me to cum multiple times ahhh yeahnn"
+                    "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking"
                 </div>
                 <div className="max-w-md pl-3 text-xl font-semibold text-left mt-4">
-                    Peepee Poopoo
+                    Steve Jobs
                 </div>
                 <div className="max-w-md pl-3 text-sm font-light text-slate-400">
                     pro | valo
